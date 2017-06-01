@@ -1,0 +1,21 @@
+*{
+	padding:0px;
+	margin:0px auto;
+}
+body#main{
+	width:1024px;
+	margin:0px auto;
+}
+div#topLayout{
+	height:140px;
+}
+div#topLayout h1{
+	font-size:40px;
+	margin-top:40px;
+	margin-left:40px;
+	font-family:"隶书";
+	color:#0e2d5f;
+}
+ul#userManageMenu li{
+	padding-top:10px;
+}
